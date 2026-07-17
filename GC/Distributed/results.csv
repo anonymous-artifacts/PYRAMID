@@ -1,0 +1,1 @@
+Dataset,BatchRatio,InitChromatic,FinalChromatic,Conflicts,Preprocess_ms,Partition_ms,Distribution_ms,AvgP1_P0,AvgP2_P0,AvgP3_P0,AvgWall_P0,AvgP1_P1,AvgP2_P1,AvgP3_P1,AvgWall_P1,TotalBatch_ms,TotalTime_ms,TotalCorrections

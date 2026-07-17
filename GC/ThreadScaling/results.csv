@@ -1,0 +1,1 @@
+Dataset,BatchRatio,NumThreads,BatchID,BatchFile,PrePhase_CPU,P12_DPU_P1,P12_DPU_P2,P12_Transfer,P12_Total,UpdateNeighbors_CPU_P3,Verify_CPU_post,TotalBatch_ms,Iterations,ChromaticNum,SessionTime_ms,AvgLatency_ms

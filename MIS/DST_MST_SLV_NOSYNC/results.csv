@@ -1,0 +1,1 @@
+Dataset,BatchRatio,InitCard,FinalCard,MISValid,Preprocess_ms,Partition_ms,Distribution_ms,AvgDpuBfs_P0,AvgDpuClust_P0,AvgMIS_P0,AvgWall_P0,AvgDpuBfs_P1,AvgDpuClust_P1,AvgMIS_P1,AvgWall_P1,TotalBatch_ms,TotalTime_ms,TotalDeltasApplied
